@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+datasets
+transformers
+torch
+torchvision
